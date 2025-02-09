@@ -1,5 +1,8 @@
 # Sales Dashboard Project - README
 
+<img width="1203" alt="Screenshot 2025-02-09 at 9 18 40 PM" src="https://github.com/user-attachments/assets/4680fd58-7393-4d7b-b06b-845c9a47bd31" />
+<img width="1203" alt="Screenshot 2025-02-09 at 9 18 50 PM" src="https://github.com/user-attachments/assets/72d923f7-a207-4ed4-95c9-ff98c5e7c9f8" />
+
 ## 📌 Project Overview
 The **Sales Dashboard Project** is an interactive **Tableau-based visualization** designed to provide business insights into sales performance, revenue trends, and key performance indicators (KPIs). This dashboard enables decision-makers to quickly analyze data and make informed business decisions.
 
