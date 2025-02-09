@@ -58,7 +58,7 @@ Want to enhance the dashboard? Here are some ideas:
 - 🏷️ **Use dynamic parameters** to create user-driven insights.
 
 ## 👥 Contributors
-- **Ethan Ong Song Yang** - [GitHub]([https://github.com/ethan267ong])
+- **Ethan Ong Song Yang** - [GitHub](https://github.com/ethan267ong)
 
 ## 📜 License
 This project is licensed under the **MIT License** – feel free to modify and enhance!
